@@ -59,11 +59,6 @@ The following points were the objective of the project . If you are looking for 
 <img target="_blank" src="https://github.com/ditikrushna/End-to-End-Diabetes-Prediction-Application-Using-Machine-Learning/blob/master/Resource/numpy.png" width=170>
 <img target="_blank" src="https://github.com/ditikrushna/End-to-End-Diabetes-Prediction-Application-Using-Machine-Learning/blob/master/Resource/pandas.jpeg" width=170>
 
-### Bug / Feature Request
-If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/ditikrushna/End-to-End-Diabetes-Prediction-Application-Using-Machine-Learning/issues) by including your search query and the expected result.
-
-If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/ditikrushna/End-to-End-Diabetes-Prediction-Application-Using-Machine-Learning/issues/new). Please include sample queries and their corresponding results.
-
 
 ### Installation 
 - Clone this repository and unzip it.
@@ -71,17 +66,4 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 - Begin a new virtual environment with Python 3 and activate it.
 - Install the required packages using pip install -r requirements.txt
 - Execute the command: python app.py
-
-### Team  
-[![Ditikrushna Giri](https://ditikrushna.me/images/diti.jpg)](https://ditikrushna.me/) |
--|
-[Ditikrushan Giri](https://ditikrushna.me/) |)
-
-
-### Credits 
-- Took inspiration from [Prem kumar ](https://github.com/krishnaik06) Who is a youtuber he makes contents on Data science [his youtube channel link](https://www.youtube.com/channel/UCNU_lfiiWBdtULKOw6X0Dig) 
-- Icons by [Icons8](https://icons8.com/)
-
-### Note:
-- Webapp can handle concurrency upto some extent but can be scaled.
 
